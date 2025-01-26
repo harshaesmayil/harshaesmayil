@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @harshaesmayil
 - 👀 I’m interested in AI engineering, Cybersecurity and Datascience 
-- 🌱 I’m currently learning Computer Science Engineering at Muthoot Institute of Technology and Science, Puthencruz, Ernakulam, Kerala
-- 💞️ I’m looking to collaborate with a Tech company as a beginner
+- 🌱 I’m currently learning Computer Science Engineering at Muthoot Institute of Technology and Science, Ernakulam, Kerala
+- 💞️ Knowledge: Intermediate Python, Beginner C, MYSQL, HTML and CSS
 - 📫 You can reach me at -> LinkedIn: www.linkedin.com/in/harsha-esmayil-22ba3131
 - 😄 Pronouns: I am just a girl 🎀
-- ⚡ Fun fact: I can get dived into really deep philosophy at times Anddd I could be a fun homosapien if i get comfortable! 🙂‍↔️
+- ⚡ Fun fact: I can get dived into really deep philosophy at times
 
 <!---
 harshaesmayil/harshaesmayil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
