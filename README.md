@@ -4,7 +4,6 @@
 - 💞️ Knowledge: Intermediate Python, Beginner C, MYSQL, HTML and CSS
 - 📫 You can reach me at -> LinkedIn: www.linkedin.com/in/harsha-esmayil-22ba3131
 - 😄 Pronouns: I am just a girl 🎀
-- ⚡ Fun fact: I can get dived into really deep philosophy at times
 
 <!---
 harshaesmayil/harshaesmayil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
